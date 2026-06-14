@@ -1,8 +1,0 @@
-{
-  "name": "ashley-townley-portfolio-static",
-  "private": true,
-  "version": "1.0.0",
-  "scripts": {
-    "build": "mkdir -p dist && cp -R *.html styles.css assets dist/"
-  }
-}
